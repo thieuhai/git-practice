@@ -1,24 +1,23 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+File README này thường ghi lại bất kì bước nào cần để hệ thống hoạt động.
 
-Things you may want to cover:
+Những thứ cần có:
 
-* Ruby version
+* Phiên bản Ruby
 
-* System dependencies
+* Phần mềm cần có
 
-* Configuration
+* Cấu hình
 
-* Database creation
+* Tạo cơ sở dữ liệu
 
-* Database initialization
+* Khởi chạy cơ sở dữ liệu
 
-* How to run the test suite
+* Cách chạy bản test
 
-* Services (job queues, cache servers, search engines, etc.)
+* Các dịch vụ (hàng chờ công việc, server lưu trữ, công cụ tìm kiếm, v.v)
 
-* Deployment instructions
+* Hướng dẫn khởi chạy Deployment instructions
 
 * ...
